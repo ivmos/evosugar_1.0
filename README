@@ -1,0 +1,56 @@
+This is a Evolution SugarCRM integration plugin.
+
+AUTHOR:
+======
+
+Irontec - Irontec :: Internet y Sistemas sobre GNU/LinuX
+<contacto@irontec.com>
+http://www.irontec.com
+
+
+Developers:
+Ivan Mosquera Paulo <ivan@irontec.com>
+
+Thanks to:
+Gorka Rodrigo <gorka@irontec.com> (beta-testing)
+Iker Sagasti <iker@irontec.com> (beta-testing)
+Miguel Angel Nieto <miguelangel@irontec.com> (beta-testing)
+Javier Infante <jabi@irontec.com> (beta-testing)
+Bruno Gonzalez <bruno@irontec.com> (advice)
+
+
+SUPPORTED BY:
+============
+
+Kultura Sailak (Hizkuntza Politikarako
+Sailburuordetzak) diruz lagundutako egitasmoa
+
+Departamento de Cultura, Gobierno Vasco
+http://www.euskadi.net
+
+
+Languages:
+=========
+
+Supported locales:
+
+eu_ES	(euskara)
+es_ES	(español)
+en_EN	(english)
+
+Changing locale (Debian base dists.)
+#dpkg-reconfigure locales
+
+
+INSTALLATION:
+============
+
+see INSTALL file
+
+CONFIGURATION:
+=============
+
+Edit > Addon > Enable "Evosugar" (checkbox).
+Second Tab: SugarCRM settings.	(SOAP version 1)
+
+

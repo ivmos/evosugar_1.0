@@ -1,0 +1,42 @@
+<gconfschemafile>
+  <schemalist>
+    <schema>
+      <key>/schemas/apps/evolution/eplugin/evosugar/username</key>
+      <applyto>/apps/evolution/eplugin/evosugar/username</applyto>
+      <owner>evosugar</owner>
+      <type>string</type>
+      <default></default>
+      <locale name="C">
+        <short>Your SugarCRM username.</short>
+        <long>Input your SugarCRM username.</long>
+      </locale>
+    </schema>
+
+    <schema>
+      <key>/schemas/apps/evolution/eplugin/evosugar/password</key>
+      <applyto>/apps/evolution/eplugin/evosugar/password</applyto>
+      <owner>evosugar</owner>
+      <type>string</type>
+      <default></default>
+      <locale name="C">
+        <short>Your SugarCRM password.</short>
+        <long>Input your SugarCRM password.</long>
+      </locale>
+    </schema>
+
+    <schema>
+      <key>/schemas/apps/evolution/eplugin/evosugar/server</key>
+      <applyto>/apps/evolution/eplugin/evosugar/server</applyto>
+      <owner>evosugar</owner>
+      <type>string</type>
+      <default></default>
+      <locale name="C">
+        <short>Your SugarCRM server URL.</short>
+        <long>Input your SugarCRM server URL.</long>
+      </locale>
+    </schema>
+
+
+  </schemalist>
+</gconfschemafile>
+

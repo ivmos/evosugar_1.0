@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<error-list
+  domain="com-irontec-evosugar"
+  translation-domain="+GETTEXT_PACKAGE+"
+  translation-localedir="+LOCALEDIR+">
+  <error id="evosugar" type="info">
+    <_primary>Evosugar</_primary>
+    <_secondary xml:space="preserve">
+</_secondary>
+  </error>
+</error-list>
+

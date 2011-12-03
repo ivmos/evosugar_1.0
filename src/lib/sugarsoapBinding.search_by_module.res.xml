@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+ xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:ns1="http://www.sugarcrm.com/sugarcrm">
+ <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <ns1:search_by_moduleResponse>
+   <return>
+    <result_count>0</result_count>
+    <next_offset>0</next_offset>
+    <field_list SOAP-ENC:arrayType="ns1:field[1]">
+     <item>
+      <name></name>
+      <type></type>
+      <label></label>
+      <required>0</required>
+      <options SOAP-ENC:arrayType="ns1:name_value[1]">
+       <item>
+        <name></name>
+        <value></value>
+       </item>
+      </options>
+      <default_value></default_value>
+     </item>
+    </field_list>
+    <entry_list SOAP-ENC:arrayType="ns1:entry_value[1]">
+     <item>
+      <id></id>
+      <module_name></module_name>
+      <name_value_list SOAP-ENC:arrayType="ns1:name_value[1]">
+       <item>
+        <name></name>
+        <value></value>
+       </item>
+      </name_value_list>
+     </item>
+    </entry_list>
+    <error>
+     <number></number>
+     <name></name>
+     <description></description>
+    </error>
+   </return>
+  </ns1:search_by_moduleResponse>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+ xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:ns1="http://www.sugarcrm.com/sugarcrm">
+ <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <ns1:user_listResponse>
+   <return SOAP-ENC:arrayType="ns1:user_detail[1]">
+    <item>
+     <email_address></email_address>
+     <user_name></user_name>
+     <first_name></first_name>
+     <last_name></last_name>
+     <department></department>
+     <id></id>
+     <title></title>
+    </item>
+   </return>
+  </ns1:user_listResponse>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

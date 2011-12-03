@@ -1,0 +1,38 @@
+16-06-2010 Evosugar 1.0-beta8
+
+	 * Bugfix
+
+
+01-03-2010 Evosugar 1.0-beta7
+
+	 * Leads supported.
+	 * Usability improvement.
+
+16-02-2010 Evosugar 1.0-beta6
+
+	 * If sent folder detected, to addres is used in search by default
+	 * 1024x758 window size by default.
+
+09-02-2010 Evosugar 1.0-beta5
+
+	 * date_sent tracked
+	 * msg body correctly sent as plain text.
+
+05-02-2010 Evosugar 1.0-beta4
+
+	 * Treeview search expanded by default.
+	 * Main window autoclosing after archive.
+	 * Supported "attachments without filename" (see RFC)
+
+02-02-2010 Evosugar 1.0-beta3
+
+	 * Bugfix
+
+30-01-2010 Evosugar 1.0-beta2
+
+	* Improved installation scripts and doc.
+	* Fixed bugs detected from Miguel Angel Nieto.
+
+05-16-2010 Evosugar 1.0-beta1
+
+	* First release

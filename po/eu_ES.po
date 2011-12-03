@@ -1,0 +1,123 @@
+#: ../src/gui/evosugar.ui.h:1
+msgid "Add to SugarCRM"
+msgstr "SugarCRM-ra gehitu"
+
+#: ../src/gui/evosugar.ui.h:2
+msgid "Attachments"
+msgstr "Atxikiak"
+
+#: ../src/gui/evosugar.ui.h:3
+msgid "Body"
+msgstr "Gorputza"
+
+#: ../src/gui/evosugar.ui.h:4
+msgid "Contacts"
+msgstr "Kontaktuak"
+
+#: ../src/gui/evosugar.ui.h:5
+msgid "Edit"
+msgstr "Editatu"
+
+#: ../src/gui/evosugar.ui.h:6
+msgid "File to SugarCRM"
+msgstr "SugarCRM-an gorde"
+
+#: ../src/gui/evosugar.ui.h:7
+msgid "From"
+msgstr "Igorlea"
+
+#: ../src/gui/evosugar.ui.h:8
+msgid "Search in SugarCRM"
+msgstr "SugarCRM-an bilatu"
+
+#: ../src/gui/evosugar.ui.h:9
+msgid "Subject"
+msgstr "Gaia"
+
+#: ../src/gui/evosugar.ui.h:10
+msgid "To"
+msgstr "Hartzailea"
+
+#: ../src/gui/evosugar.ui.h:11
+msgid "radiobutton"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:1
+#, fuzzy
+msgid ""
+"Evosugar 1.0-beta8\n"
+"Evolution SugarCRM integration plugin."
+msgstr "Evolution SugarCRM integrazio plugina."
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:3
+msgid "_Add to SugarCrm"
+msgstr "SugarCRM-ra gehitu"
+
+#: ../src/com-irontec-evosugar.error.xml.h:1
+msgid "\n"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.error.xml.h:3
+msgid "Evosugar"
+msgstr ""
+
+#: ../src/evosugar.c:307
+msgid "No results"
+msgstr "ez dago emaitzarik"
+
+#: ../src/evosugar.c:403
+msgid "Object"
+msgstr "Objektu"
+
+#: ../src/evosugar.c:414 ../src/evosugar.c:443
+msgid "Name"
+msgstr "Izena"
+
+#: ../src/evosugar.c:925
+msgid "Sent"
+msgstr "Enviado"
+
+#: ../src/evosugar.c:930
+msgid "SugarCRM"
+msgstr ""
+
+#: ../src/evosugar.c:930
+msgid "Unable to connect: check your connection and settings please."
+msgstr "Konexioa ez da posible, begiratu konexioa eta konfigurazioak mezedez."
+
+#: ../src/evosugar.c:1067
+msgid "Username :"
+msgstr "Izena :"
+
+#: ../src/evosugar.c:1068
+msgid "Password :"
+msgstr "Pasahitza :"
+
+#: ../src/evosugar.c:1069
+msgid "Server :"
+msgstr "Zerbitzaria :"
+
+#: ../src/evosugar.c:1139
+#, fuzzy
+msgid "Evosugar plugin 1.0-beta8 enabled\n"
+msgstr "Evosugar plugina aktibatu da\n"
+
+#: ../src/evosugar.c:1141
+msgid "Evosugar plugin disabled\n"
+msgstr "Evosugar plugina desaktibatu da\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Evolution SugarCRM integration plugin. \n"
+#~ "\n"
+#~ "Supported by:\n"
+#~ "Dpto. Cultura Gobierno Vasco &lt;www.euskadi.net&gt;"
+#~ msgstr ""
+#~ "Evolution SugarCRM integrazio plugina.\n"
+#~ "\n"
+#~ "Diru-laguntza:\n"
+#~ "Kultura Saila - Eusko Jaurlaritza &lt;www.euskadi.net&gt;\n"
+#~ "    "
+
+#~ msgid "Dpto. Cultura Gobierno Vasco"
+#~ msgstr "Kultura Saila - Eusko Jaurlaritza"

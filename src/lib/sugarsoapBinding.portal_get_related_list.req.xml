@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+ xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:ns1="http://www.sugarcrm.com/sugarcrm">
+ <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <ns1:portal_get_related_list>
+   <session></session>
+   <module_name></module_name>
+   <rel_module></rel_module>
+   <module_id></module_id>
+   <select_fields SOAP-ENC:arrayType="xsd:string[1]">
+    <item></item>
+   </select_fields>
+   <order_by></order_by>
+   <offset>0</offset>
+   <limit>0</limit>
+  </ns1:portal_get_related_list>
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

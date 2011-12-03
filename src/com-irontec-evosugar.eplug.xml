@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<e-plugin-list>
+  <e-plugin
+    type="shlib"
+    id="com.irontec.evosugar"
+    location="+PLUGIN_INSTALL_DIR+/libcom-irontec-evosugar.so"
+    domain="+GETTEXT_PACKAGE+"
+    localedir="+LOCALEDIR+"
+    name="Evosugar">
+    <_description xml:space="preserve" >Evosugar 1.0-beta8
+Evolution SugarCRM integration plugin.</_description>
+
+    <author name="Ivan Mosquera Paulo" email="ivan@irontec.com"/>
+    <author name="IRONTEC SL" email="www.irontec.com"/>
+    <!-- hook into the uri popup menu -->
+    <hook class="org.gnome.evolution.mail.popup:1.0">
+      <menu id="org.gnome.evolution.mail.folderview.popup" target="select">
+	<item
+	  type="item"
+	  path="zz.test"
+	  icon=""
+	  _label="_Add to SugarCrm"
+	  visible="one"
+	  activate="com_irontec_evosugar"/>
+      </menu>
+    </hook>
+  </e-plugin>
+</e-plugin-list>

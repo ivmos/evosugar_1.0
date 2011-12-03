@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-26 10:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/gui/evosugar.ui.h:1
+msgid "Add to SugarCRM"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:2
+msgid "Body"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:3
+msgid "Contacts"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:4
+msgid "Edit"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:5
+msgid "From"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:6
+msgid "Search for contacts in SugarCRM"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:7
+msgid "Subject"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:8
+msgid "To"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:9
+msgid "page 3"
+msgstr ""
+
+#: ../src/gui/evosugar.ui.h:10
+msgid "radiobutton"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:1
+msgid "A SugarCrm integration plugin."
+msgstr ""
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:2
+msgid "_SugarCrm"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.error.xml.h:1
+msgid "\n"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.error.xml.h:3
+msgid "Evosugar"
+msgstr ""
+
+#: ../src/evosugar.c:963
+msgid "Username :"
+msgstr ""
+
+#: ../src/evosugar.c:965
+msgid "Password :"
+msgstr ""
+
+#: ../src/evosugar.c:967
+msgid "Server :"
+msgstr ""
+
+#: ../src/evosugar.c:1026
+#, c-format
+msgid "Plugin enabled\n"
+msgstr ""
+
+#: ../src/evosugar.c:1028
+#, c-format
+msgid "Plugin disabled\n"
+msgstr ""

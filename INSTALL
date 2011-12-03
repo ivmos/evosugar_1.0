@@ -1,0 +1,22 @@
+EVOSUGAR 1.0
+===========
+Irontec SL <www.irontec.com>
+
+Requirements (in Ubuntu 9.10) 
+---------------
+
+apt-get install intltool
+apt-get install libgnome2-dev
+apt-get install libgnomeui-dev
+apt-get install evolution-dev
+apt-get install gsoap
+apt-get install libssl-dev
+
+Copy-paste: apt-get install intltool libgnome2-dev libgnomeui-dev evolution-dev gsoap libssl-dev
+
+Installation
+------------
+
+./configure
+make
+sudo make install

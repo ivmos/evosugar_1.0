@@ -1,0 +1,108 @@
+#: ../src/gui/evosugar.ui.h:1
+msgid "Add to SugarCRM"
+msgstr "Archivar en SugarCRM"
+
+#: ../src/gui/evosugar.ui.h:2
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: ../src/gui/evosugar.ui.h:3
+msgid "Body"
+msgstr "Cuerpo"
+
+#: ../src/gui/evosugar.ui.h:4
+msgid "Contacts"
+msgstr "Contactos"
+
+#: ../src/gui/evosugar.ui.h:5
+msgid "Edit"
+msgstr "Editar"
+
+#: ../src/gui/evosugar.ui.h:6
+msgid "File to SugarCRM"
+msgstr "Archivar en SugarCRM"
+
+#: ../src/gui/evosugar.ui.h:7
+msgid "From"
+msgstr "De entrada"
+
+#: ../src/gui/evosugar.ui.h:8
+msgid "Search in SugarCRM"
+msgstr "Buscar en SugarCRM"
+
+#: ../src/gui/evosugar.ui.h:9
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../src/gui/evosugar.ui.h:10
+msgid "To"
+msgstr "De salida"
+
+#: ../src/gui/evosugar.ui.h:11
+msgid "radiobutton"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:1
+msgid ""
+"Evosugar 1.0-beta8\n"
+"Evolution SugarCRM integration plugin."
+msgstr ""
+
+#: ../src/com-irontec-evosugar.eplug.xml.h:3
+msgid "_Add to SugarCrm"
+msgstr "Archivar en SugarCRM"
+
+#: ../src/com-irontec-evosugar.error.xml.h:1
+msgid "\n"
+msgstr ""
+
+#: ../src/com-irontec-evosugar.error.xml.h:3
+msgid "Evosugar"
+msgstr ""
+
+#: ../src/evosugar.c:307
+msgid "No results"
+msgstr "Sin resultados"
+
+#: ../src/evosugar.c:403
+msgid "Object"
+msgstr "Objeto"
+
+#: ../src/evosugar.c:414 ../src/evosugar.c:443
+msgid "Name"
+msgstr "Nombre"
+
+#: ../src/evosugar.c:925
+msgid "Sent"
+msgstr "Enviado"
+
+#: ../src/evosugar.c:930
+msgid "SugarCRM"
+msgstr ""
+
+#: ../src/evosugar.c:930
+msgid "Unable to connect: check your connection and settings please."
+msgstr ""
+"No se ha podido conectar: compruebe su conexion y configuracion por favor."
+
+#: ../src/evosugar.c:1067
+msgid "Username :"
+msgstr "Usuario :"
+
+#: ../src/evosugar.c:1068
+msgid "Password :"
+msgstr "Password :"
+
+#: ../src/evosugar.c:1069
+msgid "Server :"
+msgstr "Servidor :"
+
+#: ../src/evosugar.c:1139
+#, fuzzy
+msgid "Evosugar plugin 1.0-beta8 enabled\n"
+msgstr "Plugin habilitado\n"
+
+#: ../src/evosugar.c:1141
+#, fuzzy
+msgid "Evosugar plugin disabled\n"
+msgstr "Plugin deshabilitado\n"
